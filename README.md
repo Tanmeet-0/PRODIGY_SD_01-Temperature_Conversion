@@ -11,6 +11,10 @@ After cloning the repository `cd` into the project folder.
 Run the command `flutter pub get` to install all the dependencies of the project.  
 Run the command `flutter run` to run the application.
 
-# Screenshot
+# Demo Screenshot
 
-![Screenshot Of Application](screenshot.png "Temperature Conversion")
+![screenshot](https://github.com/user-attachments/assets/01db2ee8-2bc5-4fad-86e1-36de85e46c5e)
+
+# Demo Video
+
+https://github.com/user-attachments/assets/d5acb4a7-e0a6-46e2-8cc0-a702e1a7949f
