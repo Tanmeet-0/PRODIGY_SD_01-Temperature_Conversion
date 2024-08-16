@@ -1,16 +1,16 @@
-# temperature_conversion
+# Temperature Conversion
 
-A new Flutter project.
+A flutter application that allows converting from any temperature scale (Kelvin, Celsius, Fahrenheit) into others.
 
-## Getting Started
+# Running The Application
 
-This project is a starting point for a Flutter application.
+You need to have the Flutter SDK installed to run the application.  
+Visit the [official flutter website](https://docs.flutter.dev/get-started/install]) to install the Flutter SDK.  
+To clone the repository use the `git clone` command.  
+After cloning the repository `cd` into the project folder.  
+Run the command `flutter pub get` to install all the dependencies of the project.  
+Run the command `flutter run` to run the application.
 
-A few resources to get you started if this is your first Flutter project:
+# Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot Of Application](screenshot.png "Temperature Conversion")
